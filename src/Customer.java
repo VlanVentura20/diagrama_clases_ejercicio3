@@ -10,7 +10,7 @@ public class Customer {
 	public void Customer() {
 		
 	}
-	
+	 
 	public String toString() {
 		return "";
 	}

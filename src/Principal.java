@@ -10,7 +10,7 @@ public class Principal {
 		cliente.age = 21;
 		
 		System.out.println(cliente.name + " " + cliente.surname + " " + cliente.age);
-		
+		 
 		
 	}
 	
